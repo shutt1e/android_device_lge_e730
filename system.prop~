@@ -1,6 +1,5 @@
 # system.prop for LG e730/e739
-# 18/02/2013
-
+# 02/02/2013
 ro.sf.lcd_density=240
 # qcom display
 debug.sf.hw=1
