@@ -8,7 +8,7 @@ $(call inherit-product, vendor/cm/config/gsm.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 #Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=lge_victor BUILD_FINGERPRINT=lge/lge_victor/victor:2.3.4/GRJ22/V10a-OCT-05-2011.2ED317DCA9:user/release-keys PRIVATE_BUILD_DESC="lge_victor-user 2.3.4 GRJ22 V10a-OCT-05-2011.2ED317DCA9 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=lge_victor BUILD_FINGERPRINT="lge/lge_victor/victor:4.2.2/JDQ39E/V10a-AUG-05-2013.2ED317DCA9:user/release-keys" PRIVATE_BUILD_DESC="lge_victor-user 4.2.2 JDQ39E V10a-AUG-05-2013.2ED317DCA9 release-keys"
 
 # Boot Animation
 TARGET_SCREEN_HEIGHT := 800
