@@ -1,0 +1,76 @@
+/system/bin/ami304d 
+/system/bin/rmt_storage 
+/system/lib/egl/eglsubAndroid.so 
+/system/lib/egl/libEGL_adreno200.so 
+/system/lib/egl/libGLESv1_CM_adreno200.so 
+/system/lib/egl/libGLESv2_adreno200.so 
+/system/lib/egl/libq3dtools_adreno200.so 
+/system/lib/libgsl.so 
+/system/lib/libC2D2.so 
+/system/lib/libOpenVG.so 
+/system/lib/libsc-a2xx.so 
+/system/lib/libaudioalsa.so 
+/system/lib/libgemini.so 
+/system/lib/libmmipl.so 
+/system/lib/libmmjpeg.so 
+/system/lib/hw/sensors.default.so 
+/system/bin/netmgrd 
+/system/bin/qmuxd 
+/system/bin/rild 
+/system/lib/libauth.so 
+/system/lib/libbcmwl.so 
+/system/lib/libcm.so 
+/system/lib/libcne.so 
+/system/lib/libcneutils.so 
+/system/lib/libdiag.so 
+/system/lib/libdsi_netctrl.so 
+/system/lib/libdsm.so 
+/system/lib/libdsucsd.so 
+/system/lib/libdsutils.so 
+/system/lib/libgsdi_exp.so 
+/system/lib/libgstk_exp.so 
+/system/lib/libidl.so 
+/system/lib/liblgdrm.so 
+/system/lib/liblge_security.so 
+/system/lib/liblgeat.so 
+/system/lib/liblgenfctest.so 
+/system/lib/liblgerft.so 
+/system/lib/libmmgsdilib.so 
+/system/lib/libnetmgr.so 
+/system/lib/libnfc.so 
+/system/lib/libnv.so 
+/system/lib/liboem_rapi.so 
+/system/lib/liboncrpc.so 
+/system/lib/libpbmlib.so 
+/system/lib/libqdp.so 
+/system/lib/libqmi.so 
+/system/lib/libqueue.so 
+/system/lib/librefcne.so 
+/system/lib/libril.so 
+/system/lib/libril-qc-1.so 
+/system/lib/libril-qcril-hook-oem.so 
+/system/lib/libwms.so 
+/system/lib/libwmsts.so 
+/system/lib/libv8.so 
+/system/lib/hw/camera.victor.so 
+/system/lib/libchromatix_mt9p017_preview.so 
+/system/lib/libchromatix_mt9p017_video.so 
+/system/lib/liboemcamera.so 
+/sbin/chargerlogo 
+/sbin/wallpaper 
+/system/etc/firmware/vidc_720p_command_control.fw /firmware
+/system/etc/firmware/vidc_720p_h263_dec_mc.fw /firmware
+/system/etc/firmware/vidc_720p_h264_dec_mc.fw /firmware
+/system/etc/firmware/vidc_720p_h264_enc_mc.fw /firmware
+/system/etc/firmware/vidc_720p_mp4_dec_mc.fw /firmware
+/system/etc/firmware/vidc_720p_mp4_enc_mc.fw /firmware
+/system/etc/firmware/vidc_720p_vc1_dec_mc.fw /firmware
+/system/etc/firmware/leia_pfp_470.fw /firmware
+/system/etc/firmware/leia_pm4_470.fw /firmware
+/system/etc/firmware/yamato_pfp.fw /firmware
+/system/etc/firmware/yamato_pm4.fw /firmware
+/system/etc/wl/nvram.txt /firmware
+/system/etc/firmware/rtecdc-apsta.bin /firmware
+/system/etc/firmware/rtecdc.bin /firmware
+/system/bin/BCM4330B1_002.001.003.0243.0305.hcd /firmware
+
